@@ -20,16 +20,14 @@ A breach or violation of any of the Terms will result in an immediate terminatio
 
 # SECTION 2 - REGISTRATION & LICENSE ACCOUNT
 
-Certain of the Services or portions of the Site may require you to register for a Subscription plan, becoming a "Registered User". As part of the License creation process, you may be asked to provide an email unique to the Account and Password ("Login Information"). For other Auth Providers such as Google or GitHub the email is provided to us as part of the Authentication flow.
-
 - Login Information and agree not to transfer or disclose your Login Information to any third party other than an individual with express authority to act on your behalf.
 - If you suspect any unauthorized use of your Account, you agree to notify us immediately. You are solely responsible for any activities occurring under your Account.
-- You have no ownership right to your Account. If you are registering an Account on behalf of an organization under an agreement between us and another organization, that organization may have administrator rights to access your account and any information provided under your Account. If the terms of your Account or subscription grant access to the Services to a certain number of persons (each an "Team members"), you represent and warrant that only Authorized Users shall have access to the Services.
-- These Terms will apply to each Authorized User, and a breach of these Terms by an Authorized User will entitle us to terminate your Account with no refund due to you for any prepaid subscription fees.
+- You have no ownership right to your Account. If you are registering an Account on behalf of an organization under an agreement between us and another organization, that organization may have administrator rights to access your account and any information provided under your Account. If the terms of your Account grant access to the Services to a certain number of persons (each an "Team members"), you represent and warrant that only Authorized Users shall have access to the Services.
+- These Terms will apply to each Authorized User, and a breach of these Terms by an Authorized User will entitle us to terminate your Account with no refund.
 
 # SECTION 3 - PERMITTED USES
 
-You are authorized to access the Site for the sole purpose of viewing and using the Services on your computer or device. You may not, and shall not permit any other person, to:
+You are authorized to access he Site for the sole purpose of viewing and using the Services on your computer or device. You may not, and shall not permit any other person, to:
 
 - copy the Services, in whole or in part;
 - modify, correct, adapt, translate, enhance or otherwise prepare derivative works or improvements of any Services;
@@ -49,7 +47,7 @@ You acknowledge and agree that your use of the Services can affect your devices,
 
 # SECTION 5 - THIRD PARTY SITES
 
-<p>The Site may contain links to websites we do not operate, control, or maintain ("Third Party Websites"). We do not endorse any Third Party Websites, and we make no representation or warranty in any respect regarding the Third Party Websites. Any links to Third Party Websites on the Site are provided solely for your convenience. If you do access any Third Party Websites, you do so at your own risk and waive any and all claims against us regarding the Third Party Websites or our links thereto.</p>
+The Site may contain links to websites we do not operate, control, or maintain ("Third Party Websites"). We do not endorse any Third Party Websites, and we make no representation or warranty in any respect regarding the Third Party Websites. Any links to Third Party Websites on the Site are provided solely for your convenience. If you do access any Third Party Websites, you do so at your own risk and waive any and all claims against us regarding the Third Party Websites or our links thereto.
 
 # SECTION 6 - USER CONTENT GENERALLY
 
@@ -76,7 +74,7 @@ At SignGrid, we respect the privacy of our users. For details please see our Pri
 
 # SECTION 9 - PAID SERVICES
 
-Our order process is conducted by Stripe. [Stripe.com](http://Stripe.com) is the payment processor for all our subscriptions. Stripe provides all customer service inquires.
+Certain aspects of the Service may be provided for a fee. Our order process is conducted by our third-party payment processor, Stripe. **When you purchase a license to use our Services, you are purchasing a fixed-term license as described in our End User License Agreement (EULA). The fee provides you access to the Services for the specified license term. All fees are non-refundable except as required by law.** All customer service inquiries related to billing and payments are handled by Stripe.
 
 # SECTION 10 - COPYRIGHT INFRINGEMENT
 
@@ -131,4 +129,4 @@ We reserve the right, at our sole discretion, to update, change or replace any p
 
 Questions about the Terms of Service should be sent to us at [contact@signgrid.io](mailto:contact@signgrid.io)
 
-Last updated on May 23, 2024.
+Last updated on 11 August, 2025.

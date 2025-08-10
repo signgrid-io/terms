@@ -2,11 +2,11 @@ SignGrid SRL ("we" or "us") values our customers and respects their privacy. Thi
 
 # SECTION 1 - COLLECTION OF INFORMATION
 
-### A. When you use the Apps.
+### A. When you use the Apps
 
 We collect system information from your device required to operate the platform. The collected information may include but not limited to hardware unique id, operating system name, device name, manufacturer, brand, system name, system version, network information and screen size.
 
-### B. When you use the Site.
+### B. When you use the Site
 
 We automatically collect certain kinds of non-personal information from you when you use the Site, including device, browser type, operating system, referring or exit web pages, click patterns, Session ID, your computer's IP address, and some other browser-based information.
 
@@ -85,3 +85,5 @@ If we sell assets or are acquired by or merged with another entity, we may provi
 # QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at [contact@signgrid.io](mailto:contact@signgrid.io)
+
+Last updated on 11 August, 2025.

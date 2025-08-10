@@ -4,7 +4,7 @@ IMPORTANT: THIS APPLICATION END USER LICENSE AGREEMENT (“EULA”) IS A LEGAL A
 
 # 1. License
 
-SignGrid grants you a revocable, non-exclusive, non-transferable, limited license (per Organization subscription plan) to download, install and use the Application strictly in accordance with the terms of this Agreement. The subscription can be metered and you will be charged for the sum of your usage at the end of the billing month.
+SignGrid grants you a revocable, non-exclusive, non-transferable, limited license (per Organization) to download, install and use the Application strictly in accordance with the terms of this Agreement. **Each license is valid for a term of sixty (60) months from the date of purchase ("License Term").** Upon expiration of the License Term, the license must be renewed to maintain full functionality and receive updates.
 
 # 2. License Restrictions
 
@@ -26,6 +26,8 @@ Updates may modify or delete certain features and/or functionalities of the Appl
 
 You further agree that all Updates will be (i) deemed to constitute an integral part of the Application, and (ii) subject to the terms and conditions of this Agreement.
 
+**SignGrid is only obligated to provide Updates for Applications with a valid, unexpired license. Upon the expiration of your License Term as defined in Section 1, the Application will no longer be eligible to receive any Updates, and some or all of its features and functionalities may be disabled or cease to operate.**
+
 # 5. Ownership
 
 The foregoing license gives you limited license to use the application. SignGrid and its suppliers retain all rights, title and interest, including all copyright and intellectual property rights, in and to, the application (as an independent work and as an underlying work serving as a basis for any application you may develop), and all copies thereof. All rights not specifically granted in this EULA, including Federal and International Copyrights, are reserved by SignGrid and its suppliers.
@@ -36,7 +38,7 @@ SignGrid collects, stores, maintains, and shares information about you in accord
 
 # 7. Term and Termination
 
-This Agreement shall remain in effect until terminated by you or SignGrid.
+This Agreement shall remain in effect until terminated by you or SignGrid. **The license grant within this Agreement, however, is limited to the License Term specified in Section 1.**
 
 SignGrid may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
 
@@ -79,3 +81,5 @@ By using our platform, downloading and/or installing our applications, the Licen
 # 15. Contact Information
 
 If you have any questions about this Agreement, please contact us at [contact@signgrid.io](mailto:contact@signgrid.io)
+
+Last updated on 11 August, 2025.
